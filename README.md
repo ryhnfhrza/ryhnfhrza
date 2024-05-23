@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Muh Rayhan Fahreza
 
-<!--
-**ryhnfhrza/ryhnfhrza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Backend Engineer | Passionate about mastering backend development with Go and Java
 
-Here are some ideas to get you started:
+🎓 Currently enhancing my skills in computer science at university
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Exploring new technologies and constantly improving my skills
+
+🎮 Gamer and music enthusiast when I'm not coding
+
+📸 Follow my journey on Instagram [@rayhanfhrzaa](https://www.instagram.com/rayhanfhrzaa?igsh=YWNnMmh3aWh5ZGV0)
+
+🌐 Connect with me on LinkedIn [Muh Rayhan Fahreza](https://www.linkedin.com/in/muh-rayhan-fahreza/)
+
+🌟 Let's build something amazing together!
+
+![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryhnfhrza&show_icons=true&theme=dracula)
