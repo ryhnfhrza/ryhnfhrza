@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muh Rayhan Fahreza<br>💻 Aspiring Backend Engineer | Passionate about mastering backend development with Go and Java<br>🎓 Currently enhancing my skills in computer science at university<br>🚀 Exploring new technologies and constantly improving my skills<br>🎮 Gamer and music enthusiast when I'm not coding<br>🌟 Let's build something amazing together!
+👋 Hi, I'm Muh Rayhan Fahreza<br>💻 Aspiring Backend Engineer | Passionate about mastering backend development with Go and Java<br>🎓 Currently enhancing my skills in computer science at university<br>🚀 Exploring new technologies and constantly improving my skills<br>🌟 Let's build something amazing together!
 
 
 ## 🌐 Socials:
