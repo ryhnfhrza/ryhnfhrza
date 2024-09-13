@@ -1,3 +1,10 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" >
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=435&height=60&lines=Muh+Rayhan+Fahreza" />
+  </h1>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 # 💫 About Me:
 👋 Hi, I'm Muh Rayhan Fahreza<br>💻 Aspiring Backend Engineer | Passionate about mastering backend development with Go and Java<br>🎓 Currently enhancing my skills in computer science at university<br>🚀 Exploring new technologies and constantly improving my skills<br>🌟 Let's build something amazing together!
 
