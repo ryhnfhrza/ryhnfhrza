@@ -1,7 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" >
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=435&height=60&lines=Muh+Rayhan+Fahreza" />
-  </h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkzYm16cWp1NGUyam92NHNicDI3d2Ezemd3Y3RwdG5uaGFvcWRsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/m5igsuW4maAi0nYr6k/giphy.gif" width="60px"> <!-- GIF api di awal -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Protest+Guerrilla&size=45&pause=1000&color=F07F32F3&background=364355F3&center=true&vCenter=true&width=600&height=65&lines=Muh+Rayhan+Fahreza" alt="Typing SVG" />
+  </a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmkzYm16cWp1NGUyam92NHNicDI3d2Ezemd3Y3RwdG5uaGFvcWRsNCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/m5igsuW4maAi0nYr6k/giphy.gif" width="60px"> <!-- GIF api di akhir -->
+</h1>
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
