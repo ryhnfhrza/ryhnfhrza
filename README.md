@@ -7,7 +7,7 @@
 </h1>
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&text=Input%20text&fontColor=F07F32F3)
 
 # 💫 About Me:
 👋 Hi, I'm Muh Rayhan Fahreza<br>💻 Aspiring Backend Engineer | Passionate about mastering backend development with Go and Java<br>🎓 Currently enhancing my skills in computer science at university<br>🚀 Exploring new technologies and constantly improving my skills<br>🌟 Let's build something amazing together!
