@@ -35,12 +35,11 @@
 
 # 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryhnfhrza&repo=ryhnfhrza&theme=radical&show_owner=true" alt="Repo Pin" />
-  <br>
-  <!-- Link Snake Alternatif yang lebih stabil -->
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryhnfhrza/ryhnfhrza/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryhnfhrza/ryhnfhrza/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
 
 # 📊 System Metrics:
