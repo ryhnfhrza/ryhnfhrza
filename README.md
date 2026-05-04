@@ -33,7 +33,7 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-# 🐍 System Patrol (Contribution Snake):
+# Contribution Snake:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryhnfhrza/ryhnfhrza/output/github-contribution-grid-snake-dark.svg">
@@ -55,10 +55,17 @@
 
 ---
 
-### 💬 Daily Dev Quotes:
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryhnfhrza&theme=radical&no-bg=true&margin-w=15&column=3" alt="Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryhnfhrza&theme=react-dark&bg_color=1a1b27&color=F07F32&line=F07F32&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+# ⚡ Recent Activity:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ryhnfhrza&color=F07F32&style=for-the-badge&label=VISITOR" alt="Visitor Count">
