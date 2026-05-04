@@ -33,11 +33,37 @@
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ryhnfhrza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryhnfhrza&repo=ryhnfhrza&theme=radical&show_owner=true" alt="Repo Pin" />
+  <br>
+  <!-- Link Snake Alternatif yang lebih stabil -->
+  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ryhnfhrza&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 System Metrics:
+
+<p align="center">
+  <!-- Kita gunakan link vercel yang berbeda untuk memancing render -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryhnfhrza&show_icons=true&theme=radical&title_color=F07F32&icon_color=F07F32&text_color=ffffff&bg_color=1a1b27" alt="General Stats" height="175px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryhnfhrza&layout=compact&theme=radical&title_color=F07F32&icon_color=F07F32&text_color=ffffff&bg_color=1a1b27" alt="Top Languages" height="175px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ryhnfhrza&theme=radical&fire=F07F32&ring=F07F32" alt="GitHub Streak" height="175px"/>
+</p>
+
+---
+
+### 💬 Daily Dev Quotes:
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryhnfhrza&color=F07F32&style=for-the-badge&label=VISITOR" alt="Visitor Count">
+</p>
 
 
