@@ -11,7 +11,7 @@
 [![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)](https://capsule-render.vercel.app/api?type=rect&height=1&color=gradient&text=Input%20text&fontColor=F07F32F3)
 
 # 💫 About Me:
-👋 Hi, I'm **Muh Rayhan Fahreza**<br>💻 **Aspiring Backend Engineer** | Passionate about mastering backend development with Go and Java<br>🎓 Currently enhancing my skills in computer science at university<br>🚀 Exploring new technologies and constantly improving my skills<br>🌟 Let's build something amazing together!
+👋 Hi, I'm **Muh Rayhan Fahreza**<br>💻 **Aspiring Backend Engineer** | Passionate about mastering backend development with Go<br>🚀 Exploring new technologies and constantly improving my skills<br>🌟 Let's build something amazing together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayhanfhrzaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh-rayhan-fahreza/) 
