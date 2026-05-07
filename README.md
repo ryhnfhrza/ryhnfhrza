@@ -55,13 +55,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryhnfhrza&theme=react-dark&bg_color=1a1b27&color=F07F32&line=F07F32&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
-# ⚡ Recent Activity:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <br>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryhnfhrza&color=F07F32&style=for-the-badge&label=HACKERS+DETECTED" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=ryhnfhrza&color=F07F32&style=for-the-badge&label=VISITORS" alt="Visitor Count">
 </p>
